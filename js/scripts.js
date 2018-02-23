@@ -12,6 +12,6 @@ function todoList() {                  //todoInput is your ID for entered tasks
   document.getElementById("todoList").appendChild(li);//returning object, specific element that matches ID
 }
 document.getElementById("todoInput").value = ""; //.value collecting the data entered(todoInput)
-
+// HEY
 
 }
